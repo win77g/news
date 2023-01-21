@@ -186,7 +186,7 @@
 		'ti-dashboard': '&#xe6aa;',
 		'ti-control-stop': '&#xe6ab;',
 		'ti-control-shuffle': '&#xe6ac;',
-		'ti-control-play': '&#xe6ad;',
+		'fa fa-play': '&#xe6ad;',
 		'ti-control-pause': '&#xe6ae;',
 		'ti-control-forward': '&#xe6af;',
 		'ti-control-backward': '&#xe6b0;',

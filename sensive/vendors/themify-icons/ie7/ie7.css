@@ -517,7 +517,7 @@
 .ti-control-shuffle {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6ac;');
 }
-.ti-control-play {
+.fa fa-play {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe6ad;');
 }
 .ti-control-pause {

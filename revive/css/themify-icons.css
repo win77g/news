@@ -542,7 +542,7 @@
 .ti-control-shuffle:before {
 	content: "\e6ac";
 }
-.ti-control-play:before {
+.fa fa-play:before {
 	content: "\e6ad";
 }
 .ti-control-pause:before {
